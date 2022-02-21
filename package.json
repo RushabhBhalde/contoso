@@ -1,0 +1,23 @@
+{
+  "name": "contoso",
+  "version": "1.0.0",
+  "description": "simple web application for contoso group",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RushabhBhalde/contoso.git"
+  },
+  "author": "Rushabh Bhalde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RushabhBhalde/contoso/issues"
+  },
+  "homepage": "https://github.com/RushabhBhalde/contoso#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
